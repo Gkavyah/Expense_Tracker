@@ -57,6 +57,7 @@ The Expense Tracker delivers a user-friendly interface to log expenses, allocate
 
 - **Navigate to the Project Directory :**
 Open the project folder:
+
 cd Expense_Tracker
 
 - **Launch the Application :**
@@ -64,6 +65,8 @@ Open the index.html file in your preferred web browser to start using the applic
 
 - **Start Tracking Expenses :**
 
--Log your expenses using the user-friendly interface.
--Categorize your expenses and set budgets.
--View real-time visualizations of your spending habits.
+1.Log your expenses using the user-friendly interface.
+
+2.Categorize your expenses and set budgets.
+
+3.View real-time visualizations of your spending habits.
