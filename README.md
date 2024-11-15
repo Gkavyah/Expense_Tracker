@@ -50,17 +50,19 @@ The Expense Tracker delivers a user-friendly interface to log expenses, allocate
 ## Steps to Use  
 
 
-1. **Clone the Repository**  
+**1. Clone the Repository**  
    Clone this repository to your local machine using:  
    ```bash
    git clone https://github.com/Gkavyah/Expense_Tracker.git
-2.**Navigate to the Project Directory**
+
+**2.Navigate to the Project Directory**
 Open the project folder:
 cd Expense_Tracker
-3.**Launch the Application**
+
+**3.Launch the Application**
 Open the index.html file in your preferred web browser to start using the application.
 
-4.**Start Tracking Expenses**
+**4.Start Tracking Expenses**
 
 -Log your expenses using the user-friendly interface.
 -Categorize your expenses and set budgets.
