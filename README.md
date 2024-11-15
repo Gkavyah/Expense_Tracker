@@ -56,11 +56,13 @@ The Expense Tracker delivers a user-friendly interface to log expenses, allocate
    git clone https://github.com/Gkavyah/Expense_Tracker.git
 
 - **Navigate to the Project Directory :**
+
 Open the project folder:
 
 cd Expense_Tracker
 
 - **Launch the Application :**
+  
 Open the index.html file in your preferred web browser to start using the application.
 
 - **Start Tracking Expenses :**
